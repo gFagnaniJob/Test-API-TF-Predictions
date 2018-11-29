@@ -39,7 +39,7 @@ namespace Client
         {
             while (true)
             {
-                Console.WriteLine("Please enter the name of image");
+                Console.WriteLine("Please enter the name of image (it must be in Client/images folder)");
                 filename = Console.ReadLine();
                 Method();
                 Console.WriteLine("Wait please...");
@@ -101,8 +101,6 @@ namespace Client
                 Console.WriteLine($"CLASS = {Class}\nPROBABILITY = {probability*100} %");
 
                 Console.Write("\nType exit to end application, or press enter to resend image\n");
-                
-                
             }
         }
     }

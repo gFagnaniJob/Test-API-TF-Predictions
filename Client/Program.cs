@@ -15,7 +15,7 @@ namespace Client
         private static int count = 0;
         private static bool done = false, start = true;
         private static string filename = "";
-        private static readonly string serverIp = "192.168.0.95";
+        private static readonly string serverIp = "192.168.0.231";
         private static readonly string serverProtocol = "http";
         private static readonly int port = 5000;
 

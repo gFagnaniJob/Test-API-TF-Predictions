@@ -1,0 +1,11 @@
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.csprojAssemblyReference.cache
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\giuseppef\Desktop\Test API TF\Test-API-TF-Predictions\Client\obj\Debug\netcoreapp2.0\Client.pdb
